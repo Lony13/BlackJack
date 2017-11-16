@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>sample</OriginalElement>
+  <nodes>
+    <node x="425.2172619047619" y="0.0">sample.Suit</node>
+    <node x="323.0" y="633.0">sample.Player</node>
+    <node x="797.25" y="1559.0">sample.Main</node>
+    <node x="575.0863095238095" y="246.0">sample.Deck</node>
+    <node x="205.34226190476193" y="224.0">sample.Hand</node>
+    <node x="0.0" y="666.0">sample.Dealer</node>
+    <node x="208.58779761904765" y="1106.0">sample.Game</node>
+    <node x="349.2172619047619" y="79.0">sample.Card</node>
+    <node x="672.5863095238095" y="413.0">sample.Controller</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="sample.Card" target="sample.Suit">
+      <point x="0.0" y="-47.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="sample.Deck" target="sample.Card">
+      <point x="40.75000000000003" y="-47.5" />
+      <point x="697.3363095238095" y="194.0" />
+      <point x="527.7172619047619" y="194.0" />
+      <point x="76.5" y="47.5" />
+    </edge>
+    <edge source="sample.Main" target="sample.Controller">
+      <point x="44.75" y="-47.5" />
+      <point x="931.5" y="1534.0" />
+      <point x="1218.5863095238096" y="1534.0" />
+      <point x="182.0" y="311.5" />
+    </edge>
+    <edge source="sample.Game" target="sample.Player">
+      <point x="-2.8421709430404007E-14" y="-201.5" />
+      <point x="449.0877976190476" y="1056.0" />
+      <point x="558.5" y="1056.0" />
+      <point x="78.5" y="91.5" />
+    </edge>
+    <edge source="sample.Dealer" target="sample.Hand">
+      <point x="75.75" y="-58.5" />
+      <point x="227.25" y="393.0" />
+      <point x="291.5922619047619" y="393.0" />
+      <point x="-28.75" y="69.5" />
+    </edge>
+    <edge source="sample.Game" target="sample.Deck">
+      <point x="68.71428571428567" y="-201.5" />
+      <point x="517.8020833333333" y="1066.0" />
+      <point x="651.0863095238095" y="1066.0" />
+      <point x="651.0863095238095" y="393.0" />
+      <point x="615.8363095238095" y="393.0" />
+      <point x="-40.75" y="47.5" />
+    </edge>
+    <edge source="sample.Game" target="sample.Dealer">
+      <point x="-137.42857142857147" y="-201.5" />
+      <point x="311.65922619047615" y="1076.0" />
+      <point x="227.25" y="1076.0" />
+      <point x="75.75" y="58.5" />
+    </edge>
+    <edge source="sample.Game" target="sample.Controller">
+      <point x="206.14285714285708" y="-201.5" />
+      <point x="655.2306547619047" y="1086.0" />
+      <point x="854.5863095238095" y="1086.0" />
+      <point x="-182.0" y="311.5" />
+    </edge>
+    <edge source="sample.Hand" target="sample.Card">
+      <point x="57.5" y="-69.5" />
+      <point x="377.8422619047619" y="204.0" />
+      <point x="425.7172619047619" y="204.0" />
+      <point x="-25.5" y="47.5" />
+    </edge>
+    <edge source="sample.Player" target="sample.Hand">
+      <point x="78.5" y="-91.5" />
+      <point x="558.5" y="393.0" />
+      <point x="406.5922619047619" y="393.0" />
+      <point x="86.25" y="69.5" />
+    </edge>
+    <edge source="sample.Main" target="sample.Game">
+      <point x="-44.75" y="-47.5" />
+      <point x="842.0" y="1534.0" />
+      <point x="449.08779761904765" y="1534.0" />
+      <point x="0.0" y="201.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="142.5" y="326.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

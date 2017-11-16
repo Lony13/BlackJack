@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+
+<Pane fx:id="paneOne" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="980.0" prefWidth="1225.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <ImageView fx:id="imageTlo" fitHeight="980.0" fitWidth="1225.0" pickOnBounds="true" preserveRatio="true">
+         <viewport>
+            <Rectangle2D />
+         </viewport></ImageView>
+      <Button fx:id="buttonStartGame" layoutX="1026.0" layoutY="837.0" mnemonicParsing="false" prefHeight="61.0" prefWidth="163.0" text="Start Game">
+         <font>
+            <Font size="20.0" />
+         </font></Button>
+      <Button fx:id="buttonHit" layoutX="407.0" layoutY="837.0" mnemonicParsing="false" prefHeight="85.0" prefWidth="184.0" text="HIT">
+         <font>
+            <Font size="35.0" />
+         </font></Button>
+      <Button fx:id="buttonStand" layoutX="591.0" layoutY="837.0" mnemonicParsing="false" prefHeight="85.0" prefWidth="184.0" text="STAND">
+         <font>
+            <Font size="35.0" />
+         </font></Button>
+      <Button fx:id="buttonExit" layoutX="1026.0" layoutY="898.0" mnemonicParsing="false" onAction="#buttonExitPressed" prefHeight="61.0" prefWidth="163.0" text="Exit">
+         <font>
+            <Font size="20.0" />
+         </font></Button>
+      <Button fx:id="buttonPlayAgain" layoutX="49.0" layoutY="880.0" mnemonicParsing="false" prefHeight="74.0" prefWidth="163.0" text="Play Again">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Button>
+      <TextArea fx:id="textArea" editable="false" layoutX="871.0" layoutY="22.0" prefHeight="337.0" prefWidth="327.0">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </TextArea>
+      <HBox fx:id="playerImages" layoutX="49.0" layoutY="607.0" prefHeight="217.0" prefWidth="410.0">
+         <children>
+            <ImageView fx:id="imagePlayer1" fitHeight="174.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true" />
+            <ImageView fx:id="imagePlayer2" fitHeight="174.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true" />
+            <ImageView fx:id="imagePlayer3" fitHeight="174.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true" />
+            <ImageView fx:id="imagePlayer4" fitHeight="174.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true" />
+            <ImageView fx:id="imagePlayer5" fitHeight="174.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true" />
+            <ImageView fx:id="imagePlayer6" fitHeight="174.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true" />
+            <ImageView fx:id="imagePlayer7" fitHeight="174.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true" />
+            <ImageView fx:id="imagePlayer8" fitHeight="174.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true" />
+         </children>
+      </HBox>
+      <HBox fx:id="dealerImages" layoutX="57.0" layoutY="68.0" prefHeight="100.0" prefWidth="200.0">
+         <children>
+            <ImageView fx:id="imageDealer1" fitHeight="174.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true" />
+            <ImageView fx:id="imageDealer2" fitHeight="174.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true" />
+            <ImageView fx:id="imageDealer3" fitHeight="174.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true" />
+            <ImageView fx:id="imageDealer4" fitHeight="174.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true" />
+            <ImageView fx:id="imageDealer5" fitHeight="174.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true" />
+            <ImageView fx:id="imageDealer6" fitHeight="174.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true" />
+            <ImageView fx:id="imageDealer7" fitHeight="174.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true" />
+            <ImageView fx:id="imageDealer8" fitHeight="174.0" fitWidth="120.0" pickOnBounds="true" preserveRatio="true" />
+         </children>
+      </HBox>
+      <Text fx:id="textDealer" fill="#fcfbfa" layoutX="57.0" layoutY="49.0" strokeType="OUTSIDE" strokeWidth="0.0" text="DEALER">
+         <font>
+            <Font size="32.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="80.0" layoutY="514.0" strokeType="OUTSIDE" strokeWidth="0.0" text="YOU">
+         <font>
+            <Font size="32.0" />
+         </font>
+      </Text>
+      <Slider fx:id="slider" layoutX="785.0" layoutY="698.0" prefHeight="17.0" prefWidth="316.0" />
+      <TextArea fx:id="textAreaMoney" editable="false" layoutX="879.0" layoutY="568.0" prefHeight="85.0" prefWidth="128.0">
+         <font>
+            <Font size="35.0" />
+         </font>
+      </TextArea>
+      <Button fx:id="buttonBet" layoutX="879.0" layoutY="736.0" mnemonicParsing="false" prefHeight="53.0" prefWidth="128.0" text="BET">
+         <font>
+            <Font size="25.0" />
+         </font>
+      </Button>
+   </children>
+</Pane>
