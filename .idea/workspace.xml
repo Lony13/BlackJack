@@ -1,7 +1,149 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/19.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/21.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/22.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/23.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/25.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/26.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/27.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/28.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/29.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/30.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/31.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/33.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/34.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/35.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/36.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/37.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/38.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/39.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/41.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/42.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/43.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/44.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/45.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/46.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/47.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/49.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/51.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/52.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/cards/9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/images/tlo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/sample/Card.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/sample/Controller.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/sample/Dealer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/sample/Deck.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/sample/Game.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/sample/Hand.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/sample/Main.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/sample/Player.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/sample/Suit.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sample.uml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/schemat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/19.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/21.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/22.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/23.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/25.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/26.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/27.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/28.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/29.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/30.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/31.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/33.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/34.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/35.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/36.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/37.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/38.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/39.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/41.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/42.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/43.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/44.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/45.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/46.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/47.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/49.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/51.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/52.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cards/9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/images/tlo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/description.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BlackJack.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BlackJack/sample/sample.fxml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sample/Card.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sample/Controller.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sample/Dealer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sample/Deck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sample/Game.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sample/Hand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sample/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sample/Player.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sample/Suit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sample/sample.fxml" />
+    </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -114,6 +256,9 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -161,11 +306,12 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="width" value="976" />
     <option name="height" value="1038" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
   </component>
@@ -482,15 +628,15 @@
       <option name="presentableId" value="Default" />
       <updated>1359379246138</updated>
       <workItem from="1359379250712" duration="1302000" />
-      <workItem from="1510843900779" duration="739000" />
+      <workItem from="1510843900779" duration="797000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2041000" />
+    <option name="totallyTimeSpent" value="2099000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -502,7 +648,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
